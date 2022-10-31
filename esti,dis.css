@@ -1,0 +1,90 @@
+/*Discos*/
+
+body{
+    background: url(https://i.pinimg.com/originals/c3/b7/7c/c3b77cd517d62effe700c3cc23ef3842.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 55px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(112, 111, 111);
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    font-size: 25px;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+.Album{
+    text-align: center;
+    margin: auto;
+}
+p{
+    color: black;
+    font-size: 25px;
+}
+.listas{
+    width: 50%;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding-left: 20%;
+}
+.caja2{
+    display: flex;
+    flex-direction: row;
+    
+}
+/* Noticias*/
+
+.caja3{
+    display: flex;
+    flex-direction: row;
+}
+h4{
+    font-size: 24px;
+
+}
+p2 , p3{
+    font-size: 18px;
+
+}
+.suscripcion{
+    display: block;
+    
+}
+
+/*biografia*/
+p4{
+    font-size: 18px;
+    
+}
+
+h5{
+    font-size: 35px;
+    text-align: center;
+}
+.caja4{
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+}
